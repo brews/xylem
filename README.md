@@ -1,2 +1,2 @@
-# treetalk
-Read dendrochronology file formats in Python.
+# treeio
+Read and write dendrochronology file formats in Python.
